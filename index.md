@@ -15,10 +15,10 @@ hero:
       link: /start
     - theme: brand
       text: 下载历年真题
-      link: /proposal/start
+      link: /PastExamPapers/start
     - theme: brand
-      text: 下载案例
-      link: /proposal/start
+      text: 下载代码案例
+      link: /code/start
   image:
     src: /cover.png
     alt: 
