@@ -14,11 +14,14 @@ hero:
       text: 开始
       link: /start
     - theme: brand
-      text: 下载历年真题
+      text: 历年真题
       link: /PastExamPapers/start
     - theme: brand
-      text: 下载代码案例
+      text: 代码案例
       link: /code/start
+    - theme: brand
+      text: 其他文件
+      link: /other/start
   image:
     src: /cover.png
     alt: 

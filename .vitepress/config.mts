@@ -70,37 +70,53 @@ export default defineConfig({
         link: "/start",
       },
       {
-        text: "历年真题 💻",
+        text: "🥇 历年真题",
         items: [
           { text: "资料下载", link: "/PastExamPapers/start" },
           {
             collapsed: false,
             items: [
-              { text: "2021年", link: "#" },
-              { text: "2022年", link: "#" },
-              { text: "2023年", link: "#" },
+              { text: "2021年", link: "/page/404" },
+              { text: "2022年", link: "/page/404" },
+              { text: "2023年", link: "/page/404" },
               { text: "2024年", link: "/PastExamPapers/2024" },
             ],
           },
         ],
       },
       {
-        text: "代码文件 💻",
+        text: "💻 代码文件",
         items: [
           { text: "代码下载", link: "#" },
           {
             collapsed: false,
             items: [
-              { text: "2021年", link: "#" },
-              { text: "2022年", link: "#" },
-              { text: "2023年", link: "#" },
-              { text: "2024年", link: "/PastExamPapers/2024" },
+              { text: "2021年", link: "/page/404" },
+              { text: "2022年", link: "/page/404" },
+              { text: "2023年", link: "/code/2023" },
+              { text: "2024年", link: "/code/2024" },
+            ],
+          },
+        ],
+      },
+      {
+        text: "💡 其他文件",
+        items: [
+          { text: "下载", link: "/other/start" },
+          {
+            collapsed: false,
+            items: [
+              { text: "2021年", link: "/page/404" },
+              { text: "2022年", link: "/page/404" },
+              { text: "2023年", link: "/page/404" },
+              { text: "2024年", link: "/other/2024" },
             ],
           },
         ],
       },
       { text: "📖 常见问题", link: "/page/FAQ" },
-      { text: "💎 资源下载", link: "/page/download" },
+      { text: "🚀 更新日志", link: "/page/log" },
+      { text: "💎 版权与免责", link: "/page/copyright" },
     ],
 
     // socialLinks: [{ icon: "github", link: "https://github.com/Draper-crypto" }],

@@ -6,9 +6,9 @@ title: 版权与免责
 
 ## 版权协议
 
-> 更新日期：2024年05月20日
+> 更新日期：2024年06月20日
 
-&emsp;&emsp;本作品由**创新创业教程编写组**共同创作，并受《创作共用许可证》（Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License，简称CC BY-NC-ND 4.0）保护。本作品的版权由编写组所有，所有相关权利保留。
+&emsp;&emsp;本网站所有代码作品权属原著作人，受《创作共用许可证》（Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License，简称CC BY-NC-ND 4.0）保护。本作品的版权遵循“谁编写谁所有”的原则，原作者保留制品的全部权利。
 
 ### 授权范围
 
@@ -43,16 +43,3 @@ title: 版权与免责
 ## 免责声明
 
 &emsp;&emsp;本作品按 “现状” 提供，不附带任何明示或暗示的担保。在适用法律允许的最大范围内，**许可人明确不对任何由于使用作品而引起或以任何方式与作品有关的索赔、损失、责任、损害、成本或费用承担责任。**
-
-
-## 相关著作权
-<table>
-    <tr>
-        <td>
-            <img src="https://typora-img-1301299232.cos.ap-shanghai.myqcloud.com/innovation/202405202315148.png" style="max-width: 100%; height: auto;">
-        </td>
-        <td>
-            <img src="https://typora-img-1301299232.cos.ap-shanghai.myqcloud.com/innovation/202405202313115.png" style="max-width: 100%; height: auto;">
-        </td>
-    </tr>
-</table>
